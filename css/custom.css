@@ -100,7 +100,6 @@ header {
     height: 532px;
     width: 531px;
 }
-}
 .header-bottom nav.main-menu ul.nav.navbar-nav > li a:hover, .header-bottom nav.main-menu ul.nav.navbar-nav > li a:focus, .header-bottom nav.main-menu ul.nav.navbar-nav > li a.active {
     color: #fff !important;
     background: #2742fede;
